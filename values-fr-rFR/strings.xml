@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ApplicationMultilingue</string>
+    <string name="category_phrases">Phrases</string>
+    <string name="category_colors">Couleurs</string>
+    <string name="category_numbers">Nombres</string>
+    <string name="category_family">Famille</string>
+    <string name="color_red">rouge</string>
+    <string name="color_mustard_yellow">jaune moutarde</string>
+    <string name="color_dusty_yellow">jaune poussiéreux</string>
+    <string name="color_green">vert</string>
+    <string name="color_brown">brun</string>
+    <string name="color_gray">gris</string>
+    <string name="color_black">noir</string>
+    <string name="color_white">blanc</string>
+    <string name="family_father">père</string>
+    <string name="family_mother">mère</string>
+    <string name="family_son">fils</string>
+    <string name="family_daughter">la fille</string>
+    <string name="family_older_brother">grand frère</string>
+    <string name="family_younger_brother">frère cadet</string>
+    <string name="family_younger_sister">sœur cadette</string>
+    <string name="family_older_sister">sœur aînée</string>
+    <string name="family_grandmother">grand-mère</string>
+    <string name="family_grandfather">grand-père</string>
+    <string name="number_one">un</string>
+    <string name="number_two">deux</string>
+    <string name="number_three">trois</string>
+    <string name="number_four">quatre</string>
+    <string name="number_five">cinq</string>
+    <string name="number_six">six</string>
+    <string name="number_seven">sept</string>
+    <string name="number_eight">huit</string>
+    <string name="number_nine">neuf</string>
+    <string name="number_ten">dix</string>
+    <string name="phrase_where_are_you_going">Où allez-vous?</string>
+    <string name="phrase_what_is_your_name">Quel est ton nom?</string>
+    <string name="phrase_my_name_is">Mon nom est...</string>
+    <string name="phrase_how_are_you_feeling">Comment allez-vous?</string>
+    <string name="phrase_im_feeling_good">Je me sens bien.</string>
+    <string name="phrase_are_you_coming">Viens-tu?</string>
+    <string name="phrase_yes_im_coming">Oui, je viens.</string>
+    <string name="phrase_im_coming">J\'arrive.</string>
+    <string name="phrase_lets_go">Allons-y.</string>
+    <string name="phrase_come_here">Viens ici.</string>
+</resources>
